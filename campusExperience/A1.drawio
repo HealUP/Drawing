@@ -1,9 +1,22 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="26.0.2">
-  <diagram name="第 1 页" id="TkcxvtcQ0Ow1929o_RBQ">
-    <mxGraphModel>
+  <diagram name="智能财务收款分析与预测系统架构" id="TkcxvtcQ0Ow1929o_RBQ">
+    <mxGraphModel dx="155896" dy="74792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AzZUl30JNHw3bqfnoLg6-112" value="展示层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="440" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AzZUl30JNHw3bqfnoLg6-113" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="350" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AzZUl30JNHw3bqfnoLg6-118" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="190" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AzZUl30JNHw3bqfnoLg6-120" value="处理层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AzZUl30JNHw3bqfnoLg6-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AzZUl30JNHw3bqfnoLg6-110" target="AzZUl30JNHw3bqfnoLg6-112" />
       </root>
     </mxGraphModel>
   </diagram>
